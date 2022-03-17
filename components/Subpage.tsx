@@ -13,9 +13,9 @@ const Subpage = ({
 }: Props) => (
   <div>
     <TitleHead title={title}>
-      <meta name="description" content={`/r/${subreddit} on Reddium`} />
+      <meta name="description" content={`/r/${subreddit} on Remedium`} />
       <meta property="og:url" content={`${DOMAIN}/r/${subreddit}`} />
-      <meta property="og:description" content={`/r/${subreddit} on Reddium`} />
+      <meta property="og:description" content={`/r/${subreddit} on Remedium`} />
       <meta property="og:image" content={`${DOMAIN}/reddium-sub.png`} />
     </TitleHead>
     <header
