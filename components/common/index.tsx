@@ -156,7 +156,7 @@ export const NavMenu = ({ token = "" }: any) => {
           ""
         )}
         <a
-          href="https://ko-fi.com/eightants"
+          href="https://xabid.com"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -166,7 +166,7 @@ export const NavMenu = ({ token = "" }: any) => {
           />
         </a>
         <a
-          href="https://github.com/eightants/reddium/"
+          href="https://github.com/bihlink/reddium/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -177,7 +177,7 @@ export const NavMenu = ({ token = "" }: any) => {
         </a>
       </div>
       <a
-        href="https://github.com/eightants/reddium/"
+        href="https://github.com/bihlink/reddium/"
         target="_blank"
         rel="noopener noreferrer"
       >
