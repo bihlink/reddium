@@ -211,33 +211,28 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
               <img className="mr-3" src="bookmarks.svg" />
               <div>
                 <p className="heading-text text-sm leading-4 uppercase tracking-wide sm:text-xs">
-                  About Reddium
+                  About Remedium
                 </p>
               </div>
             </div>
             <div className="w-full pb-6">
               <p className="text-sm">
-                Ever wanted to browse Reddit while studying at Starbucks? Or
-                while sitting on the subway to work? Worried that people around
-                you would judge the subreddits you browse and the posts you
-                read?
-                <br />
-                <br />
-                Reddium is a Medium-themed Reddit client. The Reddium interface
+                Remedium is a Medium-themed Reddit client. The Remedium interface
                 converts Reddit posts, discussions, and memes into well-crafted
                 articles. Medium's layout feels a little more readable than
                 Reddit's, removing all distractions and clutter. It also
                 bypasses Reddit's frustrating mobile browser.
                 <br />
                 <br />I hope you enjoy this project! Feel free to suggest any
-                features or report bugs on GitHub.
+                features or report bugs via contact form on <a href="https://xabid.com" target="_blank">xabid.com</a> 
+                or via <a href="https://remedium.vercel.app/user/abidly">My Profile</a>.
               </p>
             </div>
             <div className="w-full pb-6 hidden">
               <img className="w-4/12 float-right" src="/signature.png" />
             </div>
             <a
-              href="https://github.com/eightants/reddium/"
+              href="https://github.com/bihlink/reddium/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -246,12 +241,12 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
               </button>
             </a>
             <a
-              href="https://ko-fi.com/eightants"
+              href="https://seolads.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <button className="mt-2 mx-1 p-2 pl-0 pb-3 cursor-pointer w-full max-w-full btn-outline-black text-white rounded">
-                ☕ Buy me a coffee
+                ☕ Donate To Project
               </button>
             </a>
           </div>
