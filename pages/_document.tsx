@@ -28,8 +28,6 @@ export default class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <hr>
-          123
         </body>
       </Html>
     );
