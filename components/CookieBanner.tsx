@@ -19,7 +19,7 @@ const CookieBanner = () => {
     <div className="cookie-banner fixed z-10 p-3">
       <div className="px-4 py-3 about-bg flex flex-row opacity-30 text-xs items-center">
         <div>
-          By using this website you agree to our use of cookies for analytics.
+          By using Remedium you agree to our use of cookies for analytics.
         </div>
         <img
           className="ml-4 w-4 opacity-25 cursor-pointer hover:opacity-75"
