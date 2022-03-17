@@ -1,19 +1,10 @@
-<h3 align="center"><img src="./public/reddium-mockup.png" width="600px" style="border-radius: 5px" alt="Whisperify"></h3>
+<h3 align="center"><img src="./public/remedium.png" width="600px" style="border-radius: 5px" alt="Whisperify"></h3>
 
 DEMO: [remedium.vercel.app](https://remedium.vercel.app)
 
 Remedium is a Medium-themed Reddit client. No longer worry about being judged while browsing Reddit in public. The Remedium interface converts Reddit posts, discussions, and memes into well-crafted articles. Once remote work is over, Remedium will be the perfect site to visit during your commute.
 
 Built with Next.js, TailwindCSS, and hosted on Vercel. Reddium is built with optimization in mind, making use of Next.js 10's analytics and server-side rendering. Placeholder images are obtained from [Unsplash](https://unsplash.com), and avatars are generated from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/). Remedium is still under development.
-
-<img src="./public/reddit-post.png" width="500px"/>
-
-Distinct Reddit interface
-
-<img src="./public/reddium-post.png" width="500px"/>
-
-On Remedium
-
 
 ## Functionality
 
