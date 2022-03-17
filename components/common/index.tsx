@@ -158,7 +158,7 @@ export const NavMenu = ({ token = "" }: any) => {
         <a
           href="https://xabid.com"
           target="_blank"
-          rel="noopener noreferrer"
+          title="xAbid"
         >
           <img
             className="h-8 cursor-pointer p-1 ml-2 sub-opacity-68 link-black-hover"
@@ -168,7 +168,7 @@ export const NavMenu = ({ token = "" }: any) => {
         <a
           href="https://remedium.vercel.app/user/abidly"
           target="_blank"
-          rel="noopener noreferrer"
+          title="Admin's Profile"
         >
           <img
             className="h-8 cursor-pointer p-1 ml-2 sub-opacity-68 link-black-hover"
