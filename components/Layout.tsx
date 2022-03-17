@@ -17,7 +17,7 @@ const Layout = ({ children, title, token }: Props) => (
         property="og:description"
         content="The Reddit Alternative With Medium Layout. "
       />
-      <meta property="og:image" content={`${DOMAIN}/reddium-mockup.png`} />
+      <meta property="og:image" content={`${DOMAIN}/remedium.png`} />
     </TitleHead>
     <header>
       <nav className="flex items-center justify-center max-width-main mx-auto z-50 h-16 my-6 lg:mx-12 sm:mx-6">
