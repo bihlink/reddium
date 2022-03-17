@@ -1,5 +1,5 @@
-export const DOMAIN = "https://reddium.vercel.app";
-export const REDIRECT_URI = "https://reddium.vercel.app/login";
+export const DOMAIN = "https://remedium.vercel.app";
+export const REDIRECT_URI = "https://remedium.vercel.app/login";
 export const CLIENT_ID = "DT8MZ0k_rAtJ8w";
 
 // export const REDIRECT_URI = "http://localhost:3000/login";
