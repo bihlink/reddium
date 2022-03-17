@@ -38,6 +38,9 @@ const TrendingSubs = (trendingSubs: any) => (
       <a className="main-green text-sm" href="/r/trendingsubreddits">
         See More
       </a>
+        <br>
+        <a class="heading-text tracking-wide" href=" /r/TrendExaminer"> /r/TrendExaminer</a><br>
+        <a class="heading-text tracking-wide" href=" /r/TubyVideos"> /r/TubyVideos</a>
     </div>
   </div>
 );
