@@ -43,6 +43,3 @@ const TrendingSubs = (trendingSubs: any) => (
 );
 
 export default TrendingSubs;
-        <br>
-        <a class="heading-text tracking-wide" href=" /r/TrendExaminer"> /r/TrendExaminer</a><br>
-        <a class="heading-text tracking-wide" href=" /r/TubyVideos"> /r/TubyVideos</a>
