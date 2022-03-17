@@ -8,9 +8,9 @@ import TitleHead from "./TitleHead";
 const PostLayout = ({ children, title, permalink, thumbnail, token }: Props) => (
   <div>
     <TitleHead title={title}>
-      <meta name="description" content={`Read on Reddium`} />
+      <meta name="description" content={`Read on Remedium`} />
       <meta property="og:url" content={`${DOMAIN}${permalink}`} />
-      <meta property="og:description" content={`Read on Reddium`} />
+      <meta property="og:description" content={`Read on Remedium`} />
       <meta
         property="og:image"
         content={
