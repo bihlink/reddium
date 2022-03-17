@@ -162,7 +162,17 @@ export const NavMenu = ({ token = "" }: any) => {
         >
           <img
             className="h-8 cursor-pointer p-1 ml-2 sub-opacity-68 link-black-hover"
-            src="/coffee.svg"
+            src="/home.svg"
+          />
+        </a>
+        <a
+          href="https://remedium.vercel.app/user/abidly"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            className="h-8 cursor-pointer p-1 ml-2 sub-opacity-68 link-black-hover"
+            src="/portrait.svg"
           />
         </a>
         <a
