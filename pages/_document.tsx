@@ -29,6 +29,8 @@ export default class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
+        <hr>
+          123
       </Html>
     );
   }
