@@ -239,7 +239,7 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
               <img className="w-4/12 float-right" src="/signature.png" />
             </div>
             <a
-              href="https://github.com/bihlink/reddium/"
+              href="https://github.com/bihlink/remedium/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -250,7 +250,6 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
             <a
               href="https://seolads.com"
               target="_blank"
-              rel="noopener noreferrer"
             >
               <button className="mt-2 mx-1 p-2 pl-0 pb-3 cursor-pointer w-full max-w-full btn-outline-black text-white rounded">
                 ☕ Donate To Project
