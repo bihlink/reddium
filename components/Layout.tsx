@@ -10,12 +10,12 @@ const Layout = ({ children, title, token }: Props) => (
     <TitleHead title={title}>
       <meta
         name="description"
-        content="The Reddit client for Silicon Valley. "
+        content="The Reddit Alternative With Medium Layout. "
       />
       <meta property="og:url" content={DOMAIN} />
       <meta
         property="og:description"
-        content="The Reddit client for Silicon Valley. "
+        content="The Reddit Alternative With Medium Layout. "
       />
       <meta property="og:image" content={`${DOMAIN}/reddium-mockup.png`} />
     </TitleHead>
@@ -26,7 +26,7 @@ const Layout = ({ children, title, token }: Props) => (
             <div className="pr-4 nav-img h-8 flex flex-row items-center cursor-pointer sm:border-0">
               <img className="h-full sm:h-6" src="reddium_symbol.svg" />
               <h1 className="ml-4 site-name text-3xl tracking-tighter sm:hidden text-black">
-                Reddium
+                Remedium
               </h1>
             </div>
           </a>
