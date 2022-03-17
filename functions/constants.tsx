@@ -1,6 +1,6 @@
 export const DOMAIN = "https://remedium.vercel.app";
 export const REDIRECT_URI = "https://remedium.vercel.app/login";
-export const CLIENT_ID = "5G8jTaK3baB-h7OBf9bzjQ";
+export const CLIENT_ID = "tt8Y0PvoKTiUUTwLMoo4bQ";
 
 // export const REDIRECT_URI = "http://localhost:3000/login";
 // export const CLIENT_ID = "RCOnAetgJAnYxQ";
