@@ -25,7 +25,7 @@ export const getServerSideProps: GetServerSideProps = async ({
       })
     };
     const resp = await (
-      await fetch("https://ssl.reddit.com/api/v1/access_token", requestOptions)
+      await fetch("https://www.reddit.com/api/v1/access_token", requestOptions)
     ).json();
     cookies.set("token", resp.access_token, { maxAge: 600000 });
     delete query.code;
