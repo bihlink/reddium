@@ -83,7 +83,7 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
   };
 
   return (
-    <Layout title="Reddium – Medium-themed Reddit client" token={params.token}>
+    <Layout title="Remedium – Medium-themed Reddit client" token={params.token}>
       <div className="lg:w-auto lg:mx-12 mx-auto w-full flex main-container max-width-main pb-10 sm:mx-6">
         <MidContainer>
           <LargeCard {...posts[0]} />
@@ -224,9 +224,16 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
                 bypasses Reddit's frustrating mobile browser.
                 <br />
                 <br />I hope you enjoy this project! Feel free to suggest any
-                features or report bugs via contact form on <a href="https://xabid.com" target="_blank">xabid.com</a> 
-                or via <a href="https://remedium.vercel.app/user/abidly">My Profile</a>.
+                features or report bugs via contact form on <a href="https://xabid.com" target="_blank">xabid.com</a>, or via <a href="https://remedium.vercel.app/user/abidly">My Profile</a>.
               </p>
+                <p className="heading-text text-sm leading-4 uppercase tracking-wide sm:text-xs">
+                  Other Useful Projects
+                </p>
+                <ul>
+                  <li><a href="https://tuby.me" target="_blank">Tuby - YouTube & TikTok Videos</a></li>
+                  <li><a href="https://bihlink.com" target="_blank">BiH Link - Search Engine</a></li>
+                  <li><a href="https://coki.me" target="_blank">Coki - URL Shortener</a></li>
+                </ul>  
             </div>
             <div className="w-full pb-6 hidden">
               <img className="w-4/12 float-right" src="/signature.png" />
