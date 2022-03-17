@@ -225,7 +225,7 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
                 <br />
                 <br />I hope you enjoy this project! Feel free to suggest any
                 features or report bugs via contact form on <a href="https://xabid.com" target="_blank">xabid.com</a>, or via <a href="https://remedium.vercel.app/user/abidly">My Profile</a>.
-              </p>
+              </p><br /><br />
                 <p className="heading-text text-sm leading-4 uppercase tracking-wide sm:text-xs">
                   Other Useful Projects
                 </p>
