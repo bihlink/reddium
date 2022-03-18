@@ -41,6 +41,7 @@ const SubredditInfo = (subredditInfo: any) =>
       </div>
     </div>
   ) : (
+    123
     <div></div>
   );
 
