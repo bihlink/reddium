@@ -39,9 +39,9 @@ const SubredditInfo = (subredditInfo: any) =>
         </div>
         {subredditInfo.subscribers}
       </div>
+      456
     </div>
   ) : (
-    123
     <div></div>
   );
 
