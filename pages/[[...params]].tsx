@@ -31,7 +31,7 @@ export const getServerSideProps: GetServerSideProps = async ({
   query
 }) => {
   const trendingSubs = await getPopularPosts({
-    subreddit: "trendexaminer",
+    subreddit: "trendingsubreddits",
     sort_type: "new",
     limit: 1
   });
@@ -126,7 +126,7 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
               >
                 Filter
               </button>
-            </div>
+            </div>123
             <TrendingSubs {...trendingSubs} />
           </div>
         </MidContainer>
