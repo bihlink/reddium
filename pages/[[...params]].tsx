@@ -126,8 +126,13 @@ const IndexPage = ({ trendingSubs, profile, params }: any) => {
               >
                 Filter
               </button>
-            </div>123
+            </div>
             <TrendingSubs {...trendingSubs} />
+                 <ul>
+                  <li><a href="https://remedium.vercel.app/r/TrendExaminer">/r/TrendExaminer</a></li>
+                  <li><a href="https://remedium.vercel.app/r/TubyVideos">/r/TubyVideos</a></li>
+                  <li><a href="https://remedium.vercel.app/r/InMedia">/r/InMedia</a></li>
+                </ul> 
           </div>
         </MidContainer>
       </div>
